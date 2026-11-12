@@ -1,0 +1,35 @@
+<!---table creation--->
+<h2>roommates</h2>
+<p> I LOVE YOU </p>
+<table border="2">
+    <tr>
+        <td>name </td>
+        <td>age</td>
+        <td>city</td>
+        <td>state</td>
+    </tr>
+    <tr>
+        <td>dipti</td>
+        <td>19</td>
+        <td>jamshedpur</td>
+        <td>jharkhand</td>
+    </tr>
+    <tr>
+        <td>rashi</td>
+        <td>18</td>
+        <td>ranchi</td>
+        <td>jharkhand</td>
+    </tr>
+    <tr>
+        <td>mahak</td>
+        <td>18</td>
+        <td>jamshedpur</td>
+        <td>jharkhand</td>
+    </tr>
+    <tr>
+        <td>ananniya</td>
+        <td>19</td>
+        <td>jamshedpur</td>
+        <td>jharkhand</td>
+    </tr>
+</table>
