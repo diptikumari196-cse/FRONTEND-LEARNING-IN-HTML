@@ -1,0 +1,24 @@
+<h1>daily meal plan</h1>
+<ol>
+    <li><h2>Breakfast</h2>
+        <ul>
+            <li>poha</li>
+            <li>upma</li>
+            <li>idli</li>
+        </ul>
+    </li>
+    <li><strong><h2>Lunch</h2></strong>
+        <ul>
+            <li>dal</li>
+            <li>rice</li>       
+            <li>roti</li>
+        </ul>
+    </li>
+    <li><h2>Dinner</h2>
+        <ul>
+            <li>curry</li>
+            <li>naan</li>
+            <li>salad</li>
+        </ul>
+    </li>
+</ol>
